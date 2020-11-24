@@ -5,7 +5,8 @@ body {
 }
 
 .wrap {
-  width: 100%; 
+  width: auto; 
+  height: auto;
 	margin: 0 auto
 }
 
